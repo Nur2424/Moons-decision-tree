@@ -71,8 +71,11 @@ Expected test accuracy after tuning is approximately 85%–87%.
 
 
 
-⸻
-
-Notes
+## Notes
 
 This project is intended as a learning-focused but professionally structured example of a classical machine learning workflow. It serves as preparation for more advanced models such as Random Forests and Gradient Boosted Trees.
+
+## Author
+
+Created by Nur
+Machine Learning Student and aspiring ML Engineer
